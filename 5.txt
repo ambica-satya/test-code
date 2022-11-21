@@ -1,0 +1,6 @@
+Once we open the website, We can simply right click on the image we want to crawl and save it.
+for text we select and copy the text we want from webpage.
+But if we want to crwal more images or text at once we can use some of the softwares like Semrush, Hexometer, ContentKing, octoparse etc...
+We can also do this by a simple python code where we use url for crawling images and text and to download automatically.
+For doing this in the code first we will take url and next we need to take each elelment in the website whether it would be HTML element or an image element, 
+we make it to download automatically.
